@@ -9,7 +9,7 @@ general:
     new-lines: 4
     # How the date placeholder should be displayed.
     # Lookup java data formater letters to figure out what each one does.
-    date-format: "MM/dd/yyyy HH:mm:ss"
+    date-format: "dd/MM/yyyy HH:mm:ss"
 
 database:
     # Types are MYSQL and H2.
